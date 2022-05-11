@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="str_instagram">Instagram</string>
+    <string name="str_full_name">Fullname</string>
+    <string name="str_email">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_c_password">Confirm Password</string>
+    <string name="str_sign_in">Sign In</string>
+    <string name="str_sign_up">Sign Up</string>
+    <string name="str_already_account">Already have an account</string>
+    <string name="str_do_not_account">Don`t have an account</string>
+    <string name="str_search">Search</string>
+    <string name="str_upload">Upload</string>
+    <string name="str_favorite">Favorite</string>
+    <string name="str_profile">Profile</string>
+    <string name="str_home">Home</string>
+    <string name="str_write_caption">Write a caption</string>
+    <string name="str_follow">Follow</string>
+    <string name="str_following">Following</string>
+    <string name="str_followers">Followers</string>
+    <string name="str_posts">Posts</string>
+
+    <string name="str_signin_success">Signed in successfully</string>
+    <string name="str_signin_failed">Sign in failed</string>
+    <string name="str_signup_success">Signed up successfully</string>
+    <string name="str_signup_failed">Sign up failed</string>
+
+    <string name="str_cancel">Cancel</string>
+    <string name="str_confirm">Confirm</string>
+    <string name="str_delete_post">Do you want to delete this post?</string>
+    <string name="str_sign_out">Do you want to log out this account?</string>
+    <string name="str_followed_note">$ started following you</string>
+    <string name="str_liked_node">Liked your post</string>
+</resources>
